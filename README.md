@@ -117,7 +117,17 @@ Visit `http://localhost:8000` in your browser.
 ## Screenshots & Demo
 
 **Live Demo Video:**  
-https://github.com/user-attachments/assets/564bf1ce-88f1-4023-81dc-d9047c7bc0e2
+
+
+https://github.com/user-attachments/assets/d82838fa-216d-4233-9fc8-caed1229e29e
+
+https://github.com/user-attachments/assets/8cb57fb4-7a8e-468e-b84f-a7324ed0e547
+
+https://github.com/user-attachments/assets/67230466-5a32-4587-89eb-51bfb33c4360
+
+
+
+
 ## Roadmap
 
 * [ ] Machine Learning for predictive analytics
