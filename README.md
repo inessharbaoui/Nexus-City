@@ -114,7 +114,7 @@ Visit `http://localhost:8000` in your browser.
 * **Interactive Maps**: Pan and zoom city maps to inspect real-time locations.
 * **Filter & Export**: Apply date or location filters, then export charts as images or CSV.
 
-## Screenshots & Demo
+##Demo
 
 **Live Demo Video:**  
 
