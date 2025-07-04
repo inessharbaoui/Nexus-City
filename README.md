@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/564bf1ce-88f1-4023-81dc-d9047c7bc0e2
+
 # Nexus-City
 
 A unified analytics dashboard for urban management, integrating traffic flow, public transport, energy consumption, and weather data into a single, powerful platform.
@@ -117,9 +121,6 @@ Visit `http://localhost:8000` in your browser.
 ## Screenshots & Demo
 
 **Live Demo Video:**  
-https://github.com/user-attachments/assets/633268a1-f97f-4571-aeda-2d72571c7d71
-https://github.com/user-attachments/assets/260cdecd-609d-4770-9763-e12430ada259
-https://github.com/user-attachments/assets/9f9a1e4d-fa80-41ea-bf0c-4f6ded9af9a5
 
 ## Roadmap
 
